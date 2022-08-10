@@ -25,8 +25,8 @@ PROXY_HOST =
 #OpenSky https://opensky-network.org/apidoc/index.html
 #When using without your own login user and pass should be None
 [OPENSKY]
-USERNAME = None
-PASSWORD = None
+USERNAME = fatkingjabba
+PASSWORD = fatkingjabba
 
 [GOOGLE]
 #API KEY for Google Static Maps only if you using this on any of the planes.
@@ -44,6 +44,6 @@ ENABLE = False
 
 [TWITTER]
 #GLOBAL TWITTER CONSUMER KEY AND CONSUMERS SECRET ONLY NEED TO BE HERE NOW
-ENABLE = False
-CONSUMER_KEY = ck
-CONSUMER_SECRET = cs
+ENABLE = TRUE
+CONSUMER_KEY = ybztLeTG3VSPG1G1LzR5GefPy
+CONSUMER_SECRET = OS8IRLCK3ndyJWdS8KwxNlxlZnr286Zm4n3WKVW8geeDkQM1O9
