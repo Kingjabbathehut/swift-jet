@@ -1,6 +1,6 @@
 [DATA]
 #Plane to track, based off ICAO or ICAO24 which is the unique transponder address of a plane.
-ICAO = icaohere
+ICAO = 407AF4
 
 
 #Optional Per Plane Overrides
@@ -24,10 +24,10 @@ TYPES = [small_airport, medium_airport, large_airport]
 
 #TITLE for Twitter, PB and Discord are Just text added to the front of each message/tweet sent
 [TWITTER]
-ENABLE = FALSE
+ENABLE = TRUE
 TITLE =
-ACCESS_TOKEN = athere
-ACCESS_TOKEN_SECRET = atshere
+ACCESS_TOKEN = 1557334840286105600-iml2KRz5W0uplNQSWe4FIgWllfXY1w
+ACCESS_TOKEN_SECRET = 3ithzwS96dZNLVDcJwOKcHroEpKAqiPfaX4lYyjk2c2Vm
 
 [PUSHBULLET]
 ENABLE = FALSE
