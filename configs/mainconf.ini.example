@@ -25,8 +25,8 @@ PROXY_HOST =
 #OpenSky https://opensky-network.org/apidoc/index.html
 #When using without your own login user and pass should be None
 [OPENSKY]
-USERNAME = fatkingjabba
-PASSWORD = fatkingjabba
+USERNAME = meddlingorg
+PASSWORD = meddling
 
 [GOOGLE]
 #API KEY for Google Static Maps only if you using this on any of the planes.
